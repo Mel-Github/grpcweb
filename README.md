@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The steps are from https://morioh.com/p/ae48b33d10a0 which has been rectified to run with the latest version of grpc and react.
+
 ## Available Scripts
 
 In the project directory, you can run:

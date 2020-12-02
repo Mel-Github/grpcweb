@@ -6,6 +6,7 @@ The steps are from https://morioh.com/p/ae48b33d10a0 which has been rectified to
 
 ➜  react-native protoc --version
 libprotoc 3.11.4
+
 ➜  react-native npx --version
 6.14.4
 

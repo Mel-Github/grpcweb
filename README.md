@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The steps are from https://morioh.com/p/ae48b33d10a0 which has been rectified to run with the latest version of grpc and react.
 
+➜  react-native protoc --version
+libprotoc 3.11.4
+➜  react-native npx --version
+6.14.4
+
 ## Available Scripts
 
 In the project directory, you can run:
